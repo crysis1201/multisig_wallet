@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-multisig_wallet = "75ed4cXcxNrViHDKhH3apxduALNJ5RDHRQP3kPqf86jd"
+multisig_wallet = "2qifYLbMLjVKhXH95Q5zCaKFfx4YhZDDeuCHJ9QhpJHX"
 
 [registry]
 url = "https://anchor.projectserum.com"
